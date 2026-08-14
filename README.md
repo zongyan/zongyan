@@ -1,1 +1,1 @@
-🔭 I’m currently working across multiple disciplines, including control and communications, with a particular focus on synchronisation, coherent joint transmission calibration, and their standardisation.
+I’m currently working across multiple disciplines, including control and communications, with a particular focus on synchronisation, coherent joint transmission calibration, and their standardisation.
